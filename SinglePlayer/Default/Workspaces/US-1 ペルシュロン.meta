@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "US-1 ペルシュロン",
+  "VehicleName": "US-1　ペルシュロン",
+  "Description": "説明なし",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\US-1 ペルシュロン.png",
+  "Mass": 10.721,
+  "SaveTime": 638206422578805967,
+  "Parts": 79,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
