@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "CV-1 アクイラ シャトル",
+  "VehicleName": "CV-1 アクイラ シャトル",
+  "Description": "ペイロード無し:推力20%\nペイロード20t:\n100m/sを超過後、徐々に推力上げ",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\CV-1 アクイラ シャトル.png",
+  "Mass": 476.967072,
+  "SaveTime": 638223748945381315,
+  "Parts": 84,
+  "Stages": 4,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
